@@ -11,7 +11,6 @@ import Footer from './components/footer/Footer';
 import ScrollUp from './components/scrollup/ScrollUp';
 const App = () => {
   return (
-    // hello
     <>
     <Header/>
     <main className='main'>
