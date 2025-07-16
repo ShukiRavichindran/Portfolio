@@ -10,7 +10,6 @@ import Contact from './components/contact/Contact';
 import Footer from './components/footer/Footer';
 import ScrollUp from './components/scrollup/ScrollUp';
 const App = () => {
-  console.log("Testing Pull Request: App component loaded");
   return (
     <>
     <Header/>
